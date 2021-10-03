@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    android:opacity="opaque"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <shape>
+            <solid
+                android:color="@color/splash_background"/>
+        </shape>
+    </item>
+
+    <item
+        android:gravity="center">
+        <inset android:drawable="@drawable/ic_tmdb_splash_icon"/>
+    </item>
+
+</layer-list>

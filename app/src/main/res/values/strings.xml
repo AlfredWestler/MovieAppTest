@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MovieAppTest</string>
+    <string name="api_key">4313691a974e9f3ddfcf21b4b330aa53</string>
+    <string name="developer_key">AIzaSyAHS81Mm9g5bsHCisMbyB4VOCDjcB0y8_o</string>
+    <string name="home">Inicio</string>
+    <string name="tv_shows">Series</string>
+    <string name="movies">Películas</string>
+    <string name="logo">Logo</string>
+    <string name="info">Información</string>
+    <string name="popular_movies">Lo más popular en películas</string>
+    <string name="popular_shows">Lo más popular en series</string>
+    <string name="recent_movies">Lo más reciente en películas</string>
+    <string name="recent_shows">Lo más reciente en series</string>
+</resources>
